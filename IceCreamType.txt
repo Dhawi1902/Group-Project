@@ -1,0 +1,6 @@
+"single cone" 1.00
+"double cone" 2.00
+"small cup" 1.50
+"large cup" 2.50
+"banana split" 4.00
+"ice cream waffle" 3.00
